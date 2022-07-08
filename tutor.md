@@ -1,0 +1,16 @@
+-frontend template
+-virtualenv:
+    - Create
+    - activate
+    - pip install package
+    - deavtivate
+- upload project on github
+- url:path
+- view:logic
+- models:db
+- template:frontend
+
+- Relations:
+    - one to many-- [author --> posts] Forignkey
+    - many to many-- [ user admin--> group]
+    - one to one--[user--> profile]
